@@ -1,4 +1,4 @@
-<h2 align="left">hey, im rax 👩🏽‍💻</h2>
+<h2 align="left">👩🏽‍💻 hey im rax </h2>
 
 ###
 
@@ -15,13 +15,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marsxnow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marsxnow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-<h2>tools i have worked with ⚙️</h2>
+<h2>⚙️ tools i have worked with </h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
@@ -49,7 +43,44 @@
 
 ###
 
-<h2>socials 📲 </h2>
+<h2>🐱‍💻 projects </h2>
+<div align="left">
+  <ul>
+    <li>
+      <a href="https://raxel-ortiz.vercel.app/" target="_blank">
+        personal page
+      </a> - a simple and minimalistic website i created using nextjs to display projects and a mini blog i update at times 
+    </li>
+    <li>
+      <a href="https://marsxnow.github.io/349P1/" target="_blank">
+        quizzical  
+      </a> - a website made in html and css that allows you to take trivia quizzes ranging from easy medium and hard
+    </li>
+    <li>
+      <a href="https://github.com/marsxnow/Pac-Man-With-Portals" target="_blank">
+        pacman portal
+      </a> - a simple pacman mockup where pacman can shoot portals and teleport across the map made in python using pygame 
+    </li>
+    <li>
+      <a href="https://github.com/marsxnow/CrossyRoad" target="_blank">
+        crossy road
+      </a> - crossy road mock up made in unreal engine 5 and c++
+    </li>
+  </ul>
+</div>
+
+###
+
+<h2>📓 stats </h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marsxnow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marsxnow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2>📲 socials  </h2>
 <div align="center">
   <a href="https://discord.com/users/clickxnow" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />

@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2 align="left">Hey, im Rax</h2>
 
 ###

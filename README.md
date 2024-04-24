@@ -1,4 +1,17 @@
-<h2 align="left">Hey, im Rax</h2>
+<h2 align="left">hey, im rax 👩🏽‍💻</h2>
+
+###
+
+<div align="center">
+  <img height="165" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXUyM2p5aGNwejdqNmMyZzlxMDRsbGVybmlldnczdm13aDN5Nzk0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QP8pvfno8ci47xsKWN/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=marsxnow&color=blueviolet&style=for-the-badge"/>
+</div>
+ 
 
 ###
 
@@ -8,6 +21,7 @@
 </div>
 
 ###
+<h2>tools i have worked with ⚙️</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
@@ -35,11 +49,12 @@
 
 ###
 
+<h2>socials 📲 </h2>
 <div align="center">
-  <a href=" discordapp.com/users/clickxnow" target="_blank">
+  <a href="https://discord.com/users/clickxnow" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="raxelportiz@gmaill.com" target="_blank">
+  <a href="raxelportiz@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/raxel-ortiz-1958b526b/" target="_blank">
@@ -50,10 +65,4 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img height="165" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjR3OXRjendrNDc3Z2tiYncyOHR5ZmdmcWJtdXc4YmRycWU0cnozMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0Cyhi8GCSU91PvtC/giphy.gif"  />
-</div>
-
-###

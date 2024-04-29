@@ -1,9 +1,14 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jacquard+12+Charted&display=swap" rel="stylesheet">
+
 <h2 align="left">👩🏽‍💻 hey im rax </h2>
 
 ###
 
 <div align="center">
   <img height="165" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXUyM2p5aGNwejdqNmMyZzlxMDRsbGVybmlldnczdm13aDN5Nzk0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QP8pvfno8ci47xsKWN/giphy.gif"  />
+  <p><em> thats that me, espresso ☕ </em> </p>
 </div>
 
 ###
@@ -60,7 +65,7 @@
     <li>
       <a href="https://github.com/marsxnow/Pac-Man-With-Portals" target="_blank">
         pacman portal
-      </a> - a simple pacman mockup where pacman can shoot portals and teleport across the map made in python using pygame 
+      </a> - a simple pacman mock up where pacman can shoot portals and teleport across the map made in python using pygame 
     </li>
     <li>
       <a href="https://github.com/marsxnow/CrossyRoad" target="_blank">

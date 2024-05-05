@@ -23,27 +23,27 @@
 <h2>⚙️ tools i have worked with </h2>
 
 <div align="center">
-  <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/React/React.png" height="35" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Html/HTML.png" height="35" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Python/Python.png" height="35" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=svelte" height="35" alt="svelte logo"  />
   <img width="12" />
-  <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Next.js/Next.js.png" height="35" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=next" height="35" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unreal" height="35" alt="unrealengine logo"  />
   <img width="12"/>
-  <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/C%2B%2B/C%2B%2B.png" height="35" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=golang" height="35" alt="go logo"  />
   <img width="12" />
-  <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Node.js/Node.js.png" height="35" alt="node logo"/>
+  <img src="https://skillicons.dev/icons?i=node" height="35" alt="node logo"/>
   <img width="12"/>
 </div>
 
